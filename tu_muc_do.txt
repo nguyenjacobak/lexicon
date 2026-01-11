@@ -1,0 +1,150 @@
+rất : 1.5
+cực : 1.8
+cực kỳ : 2
+cực kì : 2
+vô cùng : 2
+hết sức : 2
+rất đỗi : 1.8
+quá : 1.5
+quá mức : 1.8
+quá chừng : 1.8
+khá : 1.2
+hơi : 0.8
+thật : 1.3
+thật sự : 1.5
+thực sự : 1.5
+thực lòng : 1.3
+thiệt : 1.2
+thiệt là : 1.3
+thiệt tình : 1.3
+ghê : 1.5
+ghê gớm : 1.7
+kinh : 1.5
+kinh khủng : 2
+khủng khiếp : 2
+vãi : 2
+vãi chưởng : 2
+vãi cả : 2
+siêu : 2
+siêu cấp : 2.3
+siêu đỉnh : 2.3
+đỉnh : 1.8
+đỉnh cao : 2
+quá trời : 2
+quá xá : 1.8
+vô đối : 2
+trên cả tuyệt vời : 2.5
+tuyệt : 1.8
+tuyệt vời : 2.2
+tuyệt cú mèo : 2.2
+hết ý : 2
+cực đỉnh : 2.3
+dã man : 1.8
+ghê thật : 1.5
+quá thể : 1.8
+không tưởng : 2
+dữ dội : 1.8
+dữ lắm : 1.8
+căng cực : 2
+ghê lắm : 1.8
+rất rất : 2
+cực cực : 2.2
+cực kì luôn : 2.3
+hết sức luôn : 2.3
+rất chi là : 1.8
+rất là : 1.5
+siêu là : 1.8
+vô cùng là : 2
+chán ghê : 1.5
+tệ dã man : 1.8
+tệ khủng : 2
+quá trời quá đất : 2.5
+siêu siêu : 2.3
+bá đạo : 2
+vãi linh hồn : 2.5
+thật là : 1.5
+thật quá : 1.5
+đúng là : 1.2
+cực kì kinh khủng : 2.5
+không : -1
+chẳng : -1
+chả : -1
+đâu : -1
+đéo : -1
+éo : -1
+đâu có : -1
+chẳng có : -1
+không có : -1
+không hề : -1
+chẳng hề : -1
+chưa : -1
+chưa hề : -1
+chưa từng : -1
+chẳng từng : -1
+không từng : -1
+chẳng bao giờ : -1
+chưa bao giờ : -1
+không bao giờ : -1
+đâu bao giờ : -1
+đâu có bao giờ : -1
+đâu phải : -1
+chẳng phải : -1
+không phải : -1
+chưa phải : -1
+không đời nào : -1
+chẳng đời nào : -1
+đời nào : -1
+không thể : -1
+chẳng thể : -1
+chả thể : -1
+không tài nào : -1
+không sao : -1
+đâu có thể : -1
+chẳng thể nào : -1
+chẳng bao giờ có : -1
+chưa hề có : -1
+đâu có chuyện : -1
+đừng : -1
+đừng có : -1
+đừng hòng : -1
+đừng mong : -1
+đừng nghĩ : -1
+đừng tưởng : -1
+đừng mơ : -1
+đừng hòng mà : -1
+đừng có mà : -1
+chả đời nào : -1
+chả bao giờ : -1
+chả hề : -1
+đéo bao giờ : -1
+đéo phải : -1
+éo phải : -1
+đéo thể : -1
+éo có : -1
+đâu mà : -1
+đâu ra : -1
+chưa chắc : -1
+không chắc : -1
+chưa chắc chắn : -1
+không chắc chắn : -1
+chẳng chắc : -1
+không còn : -1
+chẳng còn : -1
+chả còn : -1
+đâu còn : -1
+chưa có : -1
+chẳng có gì : -1
+chả có gì : -1
+đâu có gì : -1
+không gì : -1
+chẳng gì : -1
+chả gì : -1
+đâu gì : -1
+không bao giờ có : -1
+chưa từng có : -1
+chẳng từng có : -1
+không đáng : -1
+chẳng đáng : -1
+chả đáng : -1
+đâu đáng : -1
+
